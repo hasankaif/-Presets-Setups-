@@ -78,7 +78,7 @@
     "speed": 1,
     "speedvariation": 0.02,
     "stopvideos": false,
-    "theatermode": false,
+    "theatermode": true,
     "theme": "default-dark",
     "themevariant": "dark-red.css",
     "update": 1740494995152,
