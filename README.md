@@ -1,6 +1,6 @@
 # Extension
 
-1. Enhancer For YouTube 
+1. Enhancer For YouTube : 
 2. Unhook
 3. Google Translate
 4. Obsidian Web Clipper
@@ -8,5 +8,6 @@
 6. Proton Pass
 7. AdBlock 
 8. PrintFriendly
-9. 
+9. Idm Integration Module : https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek
+
 
