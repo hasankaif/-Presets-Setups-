@@ -6,8 +6,9 @@
 4. Obsidian Web Clipper
 5. Save To Keeps
 6. Proton Pass
-7. AdBlock 
+7. AdBlocker
 8. PrintFriendly
 9. Idm Integration Module : https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek
+10.  
 
 
