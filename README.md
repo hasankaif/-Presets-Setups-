@@ -10,4 +10,3 @@
 8. PrintFriendly
 9. Idm Integration Module
 10. Go Full Page (scroll ss)
-
