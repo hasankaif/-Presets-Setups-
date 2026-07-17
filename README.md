@@ -28,3 +28,11 @@
 9. Idm Integration Module
 10. Go Full Page (scroll ss)
 
+#### Tools
+
+1. [sysinternals suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
+
+
+
+
+
